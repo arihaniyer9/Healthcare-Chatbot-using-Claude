@@ -76,7 +76,7 @@ This project leverages Claude's advanced AI capabilities along with machine lear
 
 ## Screenshots
 
-![Home Page](Opening Page.png)
+![Home Page](Opening-Page.png)
 *Home page of the chatbot web app*
 
 ## Contributing
